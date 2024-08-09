@@ -1,5 +1,4 @@
-# Credit-Card-Fraud-Detection
-# Credit Card Fraud Detection Using Autoencoder and Restricted Boltzmann Machine (RBM)
+# Credit-Card-Fraud-Detection Using Autoencoder and Restricted Boltzmann Machine (RBM)
 
 ## Overview
 
@@ -49,13 +48,6 @@ Autoencoders are employed for their ability to learn efficient representations o
 
 4. Evaluate the models and visualize results:
 
-### Dataset
-
-The dataset used for training and evaluation can be sourced from Kaggle. Ensure that the data is preprocessed (e.g., normalization, feature selection) before feeding it into the models.
-
-## Results
-
-The results directory contains visualizations and metrics showcasing the effectiveness of the Autoencoder and RBM models in detecting credit card fraud. Detailed performance evaluations and comparisons with traditional fraud detection methods are also provided.
 
 ## Future Work
 
