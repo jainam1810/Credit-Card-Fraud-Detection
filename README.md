@@ -30,8 +30,8 @@ Autoencoders are employed for their ability to learn efficient representations o
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/kartikeyadangat/Credit-Card-Fraud-Detection
-    cd credit-card-fraud-detection
+    git clone https://github.com/jainam1810/Credit-Card-Fraud-Detection.git
+    cd Credit-Card-Fraud-Detection
     ```
 
 2. Install the necessary dependencies:
@@ -58,6 +58,10 @@ Autoencoders are employed for their ability to learn efficient representations o
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to create a pull request or open an issue.
+
+## Author
+
+Developed By Jainam Varia
 
 ## Acknowledgements
 
