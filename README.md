@@ -2,7 +2,7 @@
 
 ## Overview
 
-Credit card fraud is a persistent and evolving threat in the financial sector, necessitating the development of sophisticated detection techniques. This project explores the use of deep learning models—Autoencoder and Restricted Boltzmann Machine (RBM)—to enhance the detection of fraudulent credit card transactions.
+Credit card fraud is a persistent and evolving threat in the financial sector, necessitating the development of sophisticated detection techniques. This project explores the use of deep learning models—Autoencoder and Restricted Boltzmann Machine (RBM)—to enhance the detection of fraudulent credit card transactions
 
 Autoencoders are employed for their ability to learn efficient representations of data, enabling the detection of anomalies that may indicate fraud. RBMs, known for their powerful unsupervised learning capabilities, are utilized to model complex relationships within transaction data, further aiding in the identification of suspicious activities.
 
